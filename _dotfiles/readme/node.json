@@ -1,0 +1,47 @@
+{
+  "schema": "readme-node/v1",
+  "generated_by": "_git-repos-master readme-render.js nodeData() from projects-repos.json; DO NOT EDIT (node repos-sot.js sync-readmes)",
+  "name": "DeepSc-X",
+  "label": "DeepSc-X",
+  "code": "4.2.1.1",
+  "kind": "repo",
+  "description": "DeepSc-X — deep science projects",
+  "visibility": "public",
+  "url": "https://github.com/diegonmarcos/DeepSc-X",
+  "developer": "Stark.x",
+  "farm": "4.HardTech",
+  "breadcrumb": [
+    {
+      "code": "4",
+      "kind": "area",
+      "label": "HardTech",
+      "icon": "🔬"
+    },
+    {
+      "code": "4.2",
+      "kind": "project",
+      "label": "DeepXTech",
+      "icon": "🧬"
+    },
+    {
+      "code": "4.2.1",
+      "kind": "family",
+      "label": "Sailytics",
+      "icon": ""
+    }
+  ],
+  "hub": {
+    "name": "DeepSc-___",
+    "code": "4.0",
+    "url": "https://github.com/diegonmarcos/DeepSc-___"
+  },
+  "base_dir": "git",
+  "members": [],
+  "tree": [
+    "├── 0_deployer (submodule)",
+    "├── 0_hub/",
+    "│   └── DeepSc-___ (submodule)",
+    "├── dist/",
+    "└── src/"
+  ]
+}
