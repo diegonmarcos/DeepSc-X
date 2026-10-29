@@ -5,6 +5,7 @@
   "label": "DeepSc-X",
   "code": "4.2.1.1",
   "kind": "repo",
+  "variant": "repo",
   "description": "DeepSc-X — deep science projects",
   "visibility": "public",
   "url": "https://github.com/diegonmarcos/DeepSc-X",
